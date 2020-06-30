@@ -1,0 +1,6 @@
+(
+(license "BSD")
+(category lang-exts)
+
+(author "Richard Van Natta")
+(synopsis "An extention to input ports where you can save the current cursor of a port and return to it later. Useful for backtracking."))
